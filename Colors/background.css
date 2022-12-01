@@ -1,0 +1,29 @@
+body{
+    /* background-image: url(https://1.bp.blogspot.com/-GdsEtt9Alfc/VetwcaFds0I/AAAAAAAAAEA/c4r9GjwBadI/s1600/w3schools.jpg); */
+    /* background-repeat: no-repeat; */
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    /* background-position: top right; */
+    /* background-attachment: fixed; */
+    /* background-attachment: scroll; */
+
+    /* short hand */
+    /* 
+        background-color: rgb(179, 102, 102);
+        background-image: url(https://1.bp.blogspot.com/-GdsEtt9Alfc/VetwcaFds0I/AAAAAAAAAEA/c4r9GjwBadI/s1600/w3schools.jpg);
+        background-repeat: no-repeat;
+        background-position: right top;
+    */
+    background: rgb(179, 102, 102) url(https://1.bp.blogspot.com/-GdsEtt9Alfc/VetwcaFds0I/AAAAAAAAAEA/c4r9GjwBadI/s1600/w3schools.jpg) no-repeat right top;
+}
+p{
+    margin-top: 100px;
+}
+h1{
+    padding: 15px;
+    /* background-color: dodgerblue; */
+    /* opacity: .3; */
+    background-color: rgba(52, 30, 179, .3);
+    /* background-color: rgba(red, green, blue, alpha); */
+
+}
